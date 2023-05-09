@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/melophile/static/css/main.e6c13ad2.css",
+    "main.js": "/melophile/static/js/main.6377ea21.js",
+    "index.html": "/melophile/index.html",
+    "main.e6c13ad2.css.map": "/melophile/static/css/main.e6c13ad2.css.map",
+    "main.6377ea21.js.map": "/melophile/static/js/main.6377ea21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6377ea21.js"
+  ]
+}
